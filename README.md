@@ -1,4 +1,4 @@
-# sim-lab
+<h1 align="center"><img src=sim-lab.ico></h1>
 
 Script that check if the [GT1 EVO Sim Racing Cockpit] is in stock and then shows a Windows Toast that informs you to go and get yours. I highly recommend
 that you get an account on their site and put everything in the cart that you want to order along. It remembers your cart’s content if you are registered
